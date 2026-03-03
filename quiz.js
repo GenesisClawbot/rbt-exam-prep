@@ -17,7 +17,7 @@
 
   // ─── CONFIG ─────────────────────────────────────────────────────────────────
 
-  const VALID_TOKEN = 'rbt2026access';  // CHANGE BEFORE DEPLOY — must match Stripe success URL param
+  const VALID_TOKEN = 'b7d370d528d02000cb6c30c7b7451bfb';  // CHANGE BEFORE DEPLOY — must match Stripe success URL param
   const STORAGE_KEY = 'rbt_access';
 
   const DOMAIN_NAMES = {
