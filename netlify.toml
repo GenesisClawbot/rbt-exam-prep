@@ -1,0 +1,49 @@
+[build]
+  publish = "."
+  command = ""
+
+# Security headers
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Frame-Options = "DENY"
+    X-Content-Type-Options = "nosniff"
+    Referrer-Policy = "strict-origin-when-cross-origin"
+    Permissions-Policy = "camera=(), microphone=(), geolocation=()"
+    Content-Security-Policy = "default-src 'self'; script-src 'self'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; connect-src 'self';"
+
+# Protect the quiz from search engine indexing
+[[headers]]
+  for = "/quiz.html"
+  [headers.values]
+    X-Robots-Tag = "noindex, nofollow"
+
+# Cache static assets
+[[headers]]
+  for = "*.css"
+  [headers.values]
+    Cache-Control = "public, max-age=604800"
+
+[[headers]]
+  for = "*.js"
+  [headers.values]
+    Cache-Control = "public, max-age=604800"
+
+# Do NOT cache questions.json — we'll update it after BCBA review
+[[headers]]
+  for = "/questions.json"
+  [headers.values]
+    Cache-Control = "public, max-age=3600"
+
+# Redirects: clean URLs (optional)
+# Uncomment if you want /quiz to work as well as /quiz.html
+# [[redirects]]
+#   from = "/quiz"
+#   to = "/quiz.html"
+#   status = 200
+
+# Redirects: handle 404s gracefully
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 404

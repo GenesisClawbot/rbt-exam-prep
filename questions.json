@@ -1,0 +1,1515 @@
+{
+  "status": "draft_needs_bcba_review",
+  "edition": "3rd Edition RBT Test Content Outline (BACB, effective January 2026)",
+  "total_questions": 100,
+  "domain_distribution": {
+    "A": 15,
+    "B": 15,
+    "C": 15,
+    "D": 15,
+    "E": 20,
+    "F": 20
+  },
+  "questions": [
+    {
+      "id": 1,
+      "domain": "A",
+      "subdomain": "A-1",
+      "question": "Before beginning a data collection session, an RBT should FIRST:",
+      "options": [
+        "A. Begin implementing the behavior intervention plan immediately",
+        "B. Review the behavior intervention plan and ensure all data collection materials are prepared",
+        "C. Ask the client to identify their preferred activities for the session",
+        "D. Call the supervising BCBA to confirm the session plan"
+      ],
+      "answer": "B",
+      "explanation": "An RBT should always review the behavior intervention plan and prepare all necessary materials before the session begins. This includes data sheets, reinforcers, and any required materials. This falls under A-1: Prepare for data collection.",
+      "difficulty": "easy"
+    },
+    {
+      "id": 2,
+      "domain": "A",
+      "subdomain": "A-2",
+      "question": "A therapist counts every instance of a target behavior as it occurs throughout a session. This is an example of:",
+      "options": [
+        "A. Partial interval recording",
+        "B. Momentary time sampling",
+        "C. Frequency measurement",
+        "D. Duration recording"
+      ],
+      "answer": "C",
+      "explanation": "Frequency (or event recording) involves counting each discrete occurrence of a behavior. It is a continuous measurement procedure because every instance is recorded, unlike discontinuous procedures that sample behavior across intervals.",
+      "difficulty": "easy"
+    },
+    {
+      "id": 3,
+      "domain": "A",
+      "subdomain": "A-2",
+      "question": "An RBT is measuring how long a client engages in self-stimulatory behavior during a 30-minute session. Which measurement procedure is MOST appropriate?",
+      "options": [
+        "A. Frequency recording",
+        "B. Duration recording",
+        "C. Latency recording",
+        "D. Inter-response time recording"
+      ],
+      "answer": "B",
+      "explanation": "Duration recording measures how long a behavior lasts from onset to offset. It is most appropriate when the length of the behavior is more important than the number of times it occurs, such as with self-stimulatory behavior that can vary greatly in length.",
+      "difficulty": "easy"
+    },
+    {
+      "id": 4,
+      "domain": "A",
+      "subdomain": "A-2",
+      "question": "Latency recording measures:",
+      "options": [
+        "A. The number of times a behavior occurs in a given period",
+        "B. The time between the end of one response and the beginning of the next",
+        "C. The time between a stimulus and the onset of a behavior",
+        "D. The total duration of a behavior across an entire session"
+      ],
+      "answer": "C",
+      "explanation": "Latency measures the elapsed time between the presentation of a discriminative stimulus (SD) and the onset of the target behavior. For example, measuring how long it takes a client to begin a task after an instruction is given.",
+      "difficulty": "medium"
+    },
+    {
+      "id": 5,
+      "domain": "A",
+      "subdomain": "A-3",
+      "question": "During whole interval recording, a behavior is scored as occurring only if:",
+      "options": [
+        "A. The behavior occurs at least once during the interval",
+        "B. The behavior occurs at the exact moment the interval ends",
+        "C. The behavior occurs throughout the entire interval",
+        "D. The behavior occurs for more than half of the interval"
+      ],
+      "answer": "C",
+      "explanation": "Whole interval recording requires the behavior to occur for the entire duration of the interval to be scored as occurring. This tends to underestimate behavior occurrence and is best used for behaviors the clinician wants to increase.",
+      "difficulty": "medium"
+    },
+    {
+      "id": 6,
+      "domain": "A",
+      "subdomain": "A-3",
+      "question": "Momentary time sampling involves:",
+      "options": [
+        "A. Recording behavior if it occurs at all during an interval",
+        "B. Recording behavior only if it is occurring at the exact moment the interval ends",
+        "C. Recording behavior for the entire duration of the session continuously",
+        "D. Recording behavior if it occurs during the first half of the interval"
+      ],
+      "answer": "B",
+      "explanation": "Momentary time sampling scores a behavior as occurring only if it is happening at the specific moment the interval ends (or a predetermined observation point). It is a discontinuous measure and provides an estimate of behavior occurrence.",
+      "difficulty": "medium"
+    },
+    {
+      "id": 7,
+      "domain": "A",
+      "subdomain": "A-4",
+      "question": "A client completes a worksheet during a session. The therapist scores the number of problems correctly completed. This is an example of:",
+      "options": [
+        "A. Duration recording",
+        "B. Momentary time sampling",
+        "C. Permanent product recording",
+        "D. Partial interval recording"
+      ],
+      "answer": "C",
+      "explanation": "Permanent product recording involves measuring the tangible outcomes or results of behavior rather than the behavior itself as it occurs. A completed worksheet is a permanent product — it remains after the behavior (writing) has ended.",
+      "difficulty": "easy"
+    },
+    {
+      "id": 8,
+      "domain": "A",
+      "subdomain": "A-5",
+      "question": "When entering session data into a graph, an RBT should:",
+      "options": [
+        "A. Wait until the end of the week to update all data at once",
+        "B. Estimate data points if exact values are unclear",
+        "C. Enter data accurately and in a timely manner as specified by the supervisor",
+        "D. Only graph data when there is a clear upward trend"
+      ],
+      "answer": "C",
+      "explanation": "RBTs are responsible for accurately entering data and updating graphs in a timely manner as directed by their supervisor. Delaying, estimating, or selectively graphing data violates professional standards and compromises data integrity.",
+      "difficulty": "easy"
+    },
+    {
+      "id": 9,
+      "domain": "A",
+      "subdomain": "A-6",
+      "question": "A behavior is defined as 'observable and measurable' when:",
+      "options": [
+        "A. The behavior can be directly seen and counted or timed",
+        "B. The therapist can infer the client's internal state from the behavior",
+        "C. The behavior has a clear function identified through assessment",
+        "D. The behavior is described in terms of the client's emotions"
+      ],
+      "answer": "A",
+      "explanation": "Behaviors must be defined in observable and measurable terms to allow reliable data collection. Observable means it can be directly seen (not inferred), and measurable means it can be quantified (counted, timed, etc.).",
+      "difficulty": "easy"
+    },
+    {
+      "id": 10,
+      "domain": "A",
+      "subdomain": "A-7",
+      "question": "During a preference assessment, which of the following is the RBT's MOST important responsibility?",
+      "options": [
+        "A. Selecting which items to include in the assessment",
+        "B. Interpreting the results and creating a reinforcer hierarchy",
+        "C. Implementing the assessment as directed by the supervising BCBA",
+        "D. Deciding whether to conduct a paired stimulus or multiple stimulus assessment"
+      ],
+      "answer": "C",
+      "explanation": "RBTs implement assessments as directed by their supervising BCBA. The BCBA designs the assessment protocol, selects the format, and interprets results. The RBT's role is implementation under supervision, not assessment design or interpretation.",
+      "difficulty": "medium"
+    },
+    {
+      "id": 11,
+      "domain": "A",
+      "subdomain": "A-2",
+      "question": "Rate of behavior is calculated by:",
+      "options": [
+        "A. Counting the total number of responses in a session",
+        "B. Dividing the number of responses by the amount of time observed",
+        "C. Multiplying the duration by the number of occurrences",
+        "D. Recording whether the behavior occurred during each interval"
+      ],
+      "answer": "B",
+      "explanation": "Rate is a measure of frequency over time, calculated by dividing total responses by the total observation time. It allows comparison across sessions of different lengths, making it more useful than raw frequency counts alone.",
+      "difficulty": "medium"
+    },
+    {
+      "id": 12,
+      "domain": "A",
+      "subdomain": "A-3",
+      "question": "Partial interval recording is MOST likely to:",
+      "options": [
+        "A. Underestimate the occurrence of behavior",
+        "B. Provide an exact count of behavior occurrences",
+        "C. Overestimate the occurrence of behavior",
+        "D. Measure the duration of behavior accurately"
+      ],
+      "answer": "C",
+      "explanation": "Partial interval recording scores an interval as positive if the behavior occurs at any point during the interval, even briefly. This tends to overestimate behavior occurrence because a single brief instance scores the whole interval. It's best for low-rate behaviors the clinician wants to decrease.",
+      "difficulty": "hard"
+    },
+    {
+      "id": 13,
+      "domain": "A",
+      "subdomain": "A-7",
+      "question": "Which of the following BEST describes the role of an RBT during a stimulus preference assessment?",
+      "options": [
+        "A. Design the assessment protocol and determine which format to use",
+        "B. Conduct the assessment as trained and directed by the BCBA supervisor",
+        "C. Interpret the results and update the reinforcer list independently",
+        "D. Select which stimuli to include based on clinical judgment"
+      ],
+      "answer": "B",
+      "explanation": "The RBT's role is to implement assessments as trained and directed by their BCBA supervisor. Assessment design, protocol selection, and interpretation are BCBA-level responsibilities. The RBT collects the data and reports results to the supervisor.",
+      "difficulty": "easy"
+    },
+    {
+      "id": 14,
+      "domain": "A",
+      "subdomain": "A-2",
+      "question": "Inter-response time (IRT) measures:",
+      "options": [
+        "A. How long a behavior lasts from onset to offset",
+        "B. The time between the end of one response and the beginning of the next response",
+        "C. How long it takes a client to respond after an instruction is given",
+        "D. The number of responses that occur within a fixed time period"
+      ],
+      "answer": "B",
+      "explanation": "Inter-response time (IRT) is the elapsed time between the offset of one response and the onset of the next response. It is useful for measuring behaviors where the spacing between occurrences is clinically significant.",
+      "difficulty": "medium"
+    },
+    {
+      "id": 15,
+      "domain": "A",
+      "subdomain": "A-5",
+      "question": "When graphing data, phase change lines are used to indicate:",
+      "options": [
+        "A. When the client's performance reaches mastery criterion",
+        "B. Changes in the intervention or experimental condition",
+        "C. When a new data collector took over from the previous therapist",
+        "D. When the client's behavior showed a significant change"
+      ],
+      "answer": "B",
+      "explanation": "Phase change lines are vertical lines drawn on a graph to indicate when a change in condition or intervention occurred (e.g., moving from baseline to intervention, or changing a component of the intervention). They allow visual analysis of behavior change across conditions.",
+      "difficulty": "medium"
+    },
+    {
+      "id": 16,
+      "domain": "B",
+      "subdomain": "B-1",
+      "question": "A BCBA has defined 'on-task behavior' as 'the student is looking at their worksheet with a pencil in hand for the entire interval.' Which recording method BEST captures this definition?",
+      "options": [
+        "A. Partial interval recording",
+        "B. Frequency recording",
+        "C. Whole interval recording",
+        "D. Latency recording"
+      ],
+      "answer": "C",
+      "explanation": "Whole interval recording is designed for behaviors that must occur throughout an entire interval to be scored as occurring. The definition 'for the entire interval' directly matches the whole interval recording requirement.",
+      "difficulty": "medium"
+    },
+    {
+      "id": 17,
+      "domain": "B",
+      "subdomain": "B-1",
+      "question": "Which measurement procedure would be MOST appropriate for measuring the number of words read correctly per minute?",
+      "options": [
+        "A. Duration recording",
+        "B. Whole interval recording",
+        "C. Momentary time sampling",
+        "D. Rate measurement"
+      ],
+      "answer": "D",
+      "explanation": "Rate (responses per unit time) is most appropriate for measuring fluency-based behaviors like reading rate. Words read correctly per minute is a direct measure of rate, providing information about both accuracy and speed.",
+      "difficulty": "medium"
+    },
+    {
+      "id": 18,
+      "domain": "B",
+      "subdomain": "B-2",
+      "question": "Continuous measurement differs from discontinuous measurement in that continuous measurement:",
+      "options": [
+        "A. Can only be used for behaviors that have a clear beginning and end",
+        "B. Records every instance of the target behavior as it occurs",
+        "C. Divides the observation period into equal intervals",
+        "D. Is less accurate than discontinuous measurement"
+      ],
+      "answer": "B",
+      "explanation": "Continuous measurement (frequency, duration, latency, IRT) records every occurrence of the target behavior. Discontinuous measurement (interval recording, time sampling) samples behavior across intervals and provides an estimate rather than a complete count.",
+      "difficulty": "medium"
+    },
+    {
+      "id": 19,
+      "domain": "B",
+      "subdomain": "B-2",
+      "question": "A therapist is measuring the number of times a student raises their hand during a 20-minute lesson. The most appropriate continuous measurement procedure is:",
+      "options": [
+        "A. Partial interval recording",
+        "B. Frequency/event recording",
+        "C. Momentary time sampling",
+        "D. Whole interval recording"
+      ],
+      "answer": "B",
+      "explanation": "Frequency/event recording counts each discrete occurrence of a behavior and is appropriate for behaviors with a clear onset and offset that do not occur at very high rates. Raising a hand is a discrete behavior, making frequency recording the best continuous measure.",
+      "difficulty": "easy"
+    },
+    {
+      "id": 20,
+      "domain": "B",
+      "subdomain": "B-3",
+      "question": "An advantage of permanent product recording is that:",
+      "options": [
+        "A. It requires the therapist to observe the client continuously",
+        "B. The measurement can occur after the behavior has ended",
+        "C. It is only appropriate for academic tasks",
+        "D. It provides information about the function of the behavior"
+      ],
+      "answer": "B",
+      "explanation": "Permanent product recording measures the tangible outcomes of behavior (worksheets, objects assembled, meals eaten). A key advantage is that measurement can occur after the behavior has ended because the product persists. This also improves reliability since multiple people can score the same product.",
+      "difficulty": "easy"
+    },
+    {
+      "id": 21,
+      "domain": "B",
+      "subdomain": "B-4",
+      "question": "Which of the following is the BEST operational definition of 'aggression'?",
+      "options": [
+        "A. When the client becomes upset and acts out",
+        "B. Any contact between the client's hand and another person's body with sufficient force to make a sound",
+        "C. When the client shows signs of frustration",
+        "D. Hitting behavior directed at caregivers"
+      ],
+      "answer": "B",
+      "explanation": "An operational definition must be observable and measurable. 'Any contact between the client's hand and another person's body with sufficient force to make a sound' is specific, observable, and measurable. The other options use vague terms (upset, acts out, signs of frustration) that are open to interpretation.",
+      "difficulty": "medium"
+    },
+    {
+      "id": 22,
+      "domain": "B",
+      "subdomain": "B-4",
+      "question": "A behavior definition states: 'The client makes any verbalization that is not part of the current instruction or activity.' This definition is problematic because:",
+      "options": [
+        "A. It is too specific and will undercount behavior",
+        "B. It may be difficult to determine what counts as 'part of the current activity'",
+        "C. Vocalizations cannot be reliably measured",
+        "D. It does not include the duration of the behavior"
+      ],
+      "answer": "B",
+      "explanation": "The phrase 'not part of the current instruction or activity' introduces ambiguity because different observers may disagree about what counts as 'part of' the activity. Good operational definitions eliminate this subjectivity by being precise enough that any trained observer would score the behavior consistently.",
+      "difficulty": "hard"
+    },
+    {
+      "id": 23,
+      "domain": "B",
+      "subdomain": "B-5",
+      "question": "On a behavior graph, the y-axis typically represents:",
+      "options": [
+        "A. Sessions or time periods",
+        "B. The measurement of the dependent variable (e.g., frequency, percentage)",
+        "C. The phases of the intervention",
+        "D. The names of different behaviors being tracked"
+      ],
+      "answer": "B",
+      "explanation": "In a standard behavior graph, the y-axis (vertical) represents the dependent variable — the measure of the behavior (frequency, rate, percentage, duration). The x-axis (horizontal) represents time (sessions, days).",
+      "difficulty": "easy"
+    },
+    {
+      "id": 24,
+      "domain": "B",
+      "subdomain": "B-5",
+      "question": "Interobserver agreement (IOA) is measured to assess:",
+      "options": [
+        "A. Whether the client's behavior has improved over time",
+        "B. The accuracy and reliability of data collection procedures",
+        "C. Whether the intervention is producing a treatment effect",
+        "D. The difficulty level of the target skill"
+      ],
+      "answer": "B",
+      "explanation": "Interobserver agreement (IOA) is calculated when two observers independently measure the same behavior simultaneously. High IOA (typically ≥80%) indicates that the behavior definition and measurement procedure are clear and reliable, increasing confidence in the data.",
+      "difficulty": "medium"
+    },
+    {
+      "id": 25,
+      "domain": "B",
+      "subdomain": "B-2",
+      "question": "A client engages in rocking behavior that occurs throughout the session without a clear onset or offset. Which measurement procedure is MOST appropriate?",
+      "options": [
+        "A. Frequency recording",
+        "B. Latency recording",
+        "C. Duration recording",
+        "D. Permanent product recording"
+      ],
+      "answer": "C",
+      "explanation": "Duration recording is most appropriate for behaviors that do not have clear discrete occurrences or that vary significantly in length. Rocking that occurs continuously fits better with duration (measuring how long it lasts) than frequency (counting discrete instances).",
+      "difficulty": "medium"
+    },
+    {
+      "id": 26,
+      "domain": "B",
+      "subdomain": "B-5",
+      "question": "An RBT notices the data for the current session look different from the trend shown in previous sessions. The MOST appropriate action is to:",
+      "options": [
+        "A. Ignore the discrepancy and continue collecting data normally",
+        "B. Adjust the data to match the previous trend",
+        "C. Accurately record the data and report the observation to the supervising BCBA",
+        "D. Repeat the session to get more consistent data before reporting"
+      ],
+      "answer": "C",
+      "explanation": "RBTs must record data accurately and report unusual observations to their supervisor. Adjusting data would be falsification, which is a serious ethical violation. The BCBA needs accurate data to make clinical decisions.",
+      "difficulty": "easy"
+    },
+    {
+      "id": 27,
+      "domain": "B",
+      "subdomain": "B-1",
+      "question": "Which of the following measurement procedures provides the LEAST accurate estimate of behavior when the target behavior occurs at a very high rate?",
+      "options": [
+        "A. Duration recording",
+        "B. Rate recording",
+        "C. Partial interval recording",
+        "D. Permanent product recording"
+      ],
+      "answer": "C",
+      "explanation": "Partial interval recording becomes increasingly inaccurate as behavior rate increases because once a behavior occurs once in an interval, additional occurrences go unrecorded. At high rates, nearly all intervals will be scored, making it impossible to detect further increases.",
+      "difficulty": "hard"
+    },
+    {
+      "id": 28,
+      "domain": "B",
+      "subdomain": "B-3",
+      "question": "An RBT counts the number of correct responses on a completed math worksheet. This is an example of:",
+      "options": [
+        "A. Frequency recording during the behavior",
+        "B. Permanent product recording",
+        "C. Momentary time sampling",
+        "D. Whole interval recording"
+      ],
+      "answer": "B",
+      "explanation": "Scoring a completed worksheet after the fact is permanent product recording — measuring the tangible result of the behavior rather than the behavior as it occurs. This is common in academic skill programs.",
+      "difficulty": "easy"
+    },
+    {
+      "id": 29,
+      "domain": "B",
+      "subdomain": "B-4",
+      "question": "When writing an operational definition for a target behavior, an RBT should:",
+      "options": [
+        "A. Use mentalistic terms to capture the client's internal experience",
+        "B. Define the behavior in observable and measurable terms as specified by the BCBA",
+        "C. Choose the definition independently based on their clinical experience",
+        "D. Prioritize brevity over specificity to make the definition easy to remember"
+      ],
+      "answer": "B",
+      "explanation": "Operational definitions must be observable and measurable. RBTs implement definitions as specified by the BCBA, not independently. Mentalistic terms (anxious, frustrated) cannot be directly observed, and brevity should not come at the cost of precision.",
+      "difficulty": "easy"
+    },
+    {
+      "id": 30,
+      "domain": "B",
+      "subdomain": "B-5",
+      "question": "A trend line on a behavior graph that moves upward from left to right indicates:",
+      "options": [
+        "A. The behavior is decreasing over time",
+        "B. The behavior is increasing over time",
+        "C. There is no change in behavior across sessions",
+        "D. Data collection has been inconsistent"
+      ],
+      "answer": "B",
+      "explanation": "An ascending (upward-trending) data path indicates that the measured value is increasing over time. Whether this is desirable depends on whether the behavior is a target for increase (skill acquisition) or decrease (behavior reduction).",
+      "difficulty": "easy"
+    },
+    {
+      "id": 31,
+      "domain": "C",
+      "subdomain": "C-1",
+      "question": "Before beginning a skill acquisition session, an RBT should review:",
+      "options": [
+        "A. Only the reinforcement schedule, as it is the most critical component",
+        "B. The entire skill acquisition plan including targets, prompting procedures, and mastery criteria",
+        "C. The client's medical history to identify any contraindications",
+        "D. Only targets that were not mastered in the previous session"
+      ],
+      "answer": "B",
+      "explanation": "Before a skill acquisition session, RBTs should review the entire plan including target behaviors, prompting hierarchy, reinforcement procedures, error correction procedures, and mastery criteria. This ensures consistent implementation across sessions and therapists.",
+      "difficulty": "easy"
+    },
+    {
+      "id": 32,
+      "domain": "C",
+      "subdomain": "C-2",
+      "question": "In Discrete Trial Teaching (DTT), the components of a trial include:",
+      "options": [
+        "A. Antecedent, Behavior, Consequence, and Inter-trial interval",
+        "B. Prompt, Response, Reinforcement, and Data collection",
+        "C. Instruction, Attempt, Feedback, and Recording",
+        "D. Setting, Target, Prompt, and Correction"
+      ],
+      "answer": "A",
+      "explanation": "A complete DTT trial consists of: the discriminative stimulus/instruction (SD - Antecedent), the client's response (Behavior), the consequence (reinforcement or error correction), and the inter-trial interval before the next trial. This mirrors the three-term contingency with the addition of the inter-trial interval.",
+      "difficulty": "medium"
+    },
+    {
+      "id": 33,
+      "domain": "C",
+      "subdomain": "C-3",
+      "question": "The purpose of the inter-trial interval (ITI) in DTT is to:",
+      "options": [
+        "A. Provide the client with a break between teaching sessions",
+        "B. Allow the therapist to record data between trials",
+        "C. Create a brief pause between trials to prevent the client from linking responses across trials",
+        "D. Give the client time to access preferred reinforcers"
+      ],
+      "answer": "C",
+      "explanation": "The inter-trial interval (ITI) is a brief pause between trials that serves to clearly separate one trial from the next. This prevents the client from chaining responses across trials and ensures the SD at the start of each trial clearly signals a new opportunity to respond.",
+      "difficulty": "medium"
+    },
+    {
+      "id": 34,
+      "domain": "C",
+      "subdomain": "C-4",
+      "question": "Prompt fading is used to:",
+      "options": [
+        "A. Increase the number of prompts provided during a session",
+        "B. Gradually reduce prompts so the client responds to the natural cue",
+        "C. Replace one type of prompt with a more intrusive prompt",
+        "D. Deliver prompts on a variable ratio schedule"
+      ],
+      "answer": "B",
+      "explanation": "Prompt fading is the systematic reduction of prompting over time so that the client learns to respond to the natural discriminative stimulus without needing additional prompts. The goal is independence — the client should not become prompt-dependent.",
+      "difficulty": "easy"
+    },
+    {
+      "id": 35,
+      "domain": "C",
+      "subdomain": "C-4",
+      "question": "Which of the following is the MOST intrusive type of prompt?",
+      "options": [
+        "A. Gestural prompt",
+        "B. Verbal prompt",
+        "C. Full physical prompt (hand-over-hand)",
+        "D. Model prompt"
+      ],
+      "answer": "C",
+      "explanation": "Full physical (hand-over-hand) guidance is the most intrusive prompt because it involves direct physical contact and essentially moves the client through the response. Prompt hierarchies from most to least intrusive typically go: full physical > partial physical > model > gestural > verbal.",
+      "difficulty": "easy"
+    },
+    {
+      "id": 36,
+      "domain": "C",
+      "subdomain": "C-5",
+      "question": "Chaining refers to:",
+      "options": [
+        "A. Linking multiple reinforcers together to increase motivation",
+        "B. Teaching a sequence of behaviors that together form a complex skill",
+        "C. Using a chain of prompts from most to least intrusive",
+        "D. Connecting data across multiple sessions to identify trends"
+      ],
+      "answer": "B",
+      "explanation": "Chaining is a teaching procedure used for complex skills that involve a sequence of behaviors (task analysis). Examples include hand washing, getting dressed, or making a sandwich. Each step in the chain is taught and linked together.",
+      "difficulty": "easy"
+    },
+    {
+      "id": 37,
+      "domain": "C",
+      "subdomain": "C-5",
+      "question": "In backward chaining, the therapist:",
+      "options": [
+        "A. Teaches all steps of the task simultaneously",
+        "B. Teaches the first step of the task first and adds steps sequentially",
+        "C. Completes all steps except the last, which the client performs independently",
+        "D. Starts teaching from the middle of the task analysis"
+      ],
+      "answer": "C",
+      "explanation": "In backward chaining, the therapist completes all steps of the task analysis except the last step, which the client performs independently. The client always completes the task and contacts the natural reinforcer. Once the last step is mastered, the therapist begins prompting the second-to-last step independently, and so on.",
+      "difficulty": "medium"
+    },
+    {
+      "id": 38,
+      "domain": "C",
+      "subdomain": "C-6",
+      "question": "Generalization of a skill occurs when a client:",
+      "options": [
+        "A. Consistently performs a skill only in the training environment",
+        "B. Performs a skill across different settings, people, or materials not used in training",
+        "C. Can explain why the skill is important",
+        "D. Masters a skill to the preset criterion during a training session"
+      ],
+      "answer": "B",
+      "explanation": "Generalization means the skill learned in training transfers to untrained contexts — different settings, different people, different materials, or different times. If a client can only perform a skill with their therapist in the therapy room, generalization has not occurred.",
+      "difficulty": "easy"
+    },
+    {
+      "id": 39,
+      "domain": "C",
+      "subdomain": "C-7",
+      "question": "Naturalistic teaching procedures differ from DTT primarily in that they:",
+      "options": [
+        "A. Do not use reinforcement",
+        "B. Occur in the client's natural environment and use naturally occurring opportunities",
+        "C. Require the therapist to have a higher level of training",
+        "D. Are only appropriate for verbal behavior targets"
+      ],
+      "answer": "B",
+      "explanation": "Naturalistic teaching (e.g., Natural Environment Teaching, Incidental Teaching) embeds learning opportunities in naturally occurring activities and settings. This approach increases generalization and motivation because learning occurs in the context where the skill will naturally be used.",
+      "difficulty": "medium"
+    },
+    {
+      "id": 40,
+      "domain": "C",
+      "subdomain": "C-8",
+      "question": "A continuous reinforcement schedule (CRF) means:",
+      "options": [
+        "A. Reinforcement is delivered after a variable number of responses",
+        "B. Every correct response is reinforced",
+        "C. Reinforcement is delivered on a fixed time schedule",
+        "D. Reinforcement is only delivered when the client asks for it"
+      ],
+      "answer": "B",
+      "explanation": "A continuous reinforcement (CRF) schedule reinforces every single correct response. CRF is often used during the acquisition phase of skill training because it provides clear, immediate feedback and rapidly strengthens new behaviors. It is typically thinned to an intermittent schedule once the skill is established.",
+      "difficulty": "easy"
+    },
+    {
+      "id": 41,
+      "domain": "C",
+      "subdomain": "C-9",
+      "question": "Error correction in skill acquisition is BEST described as:",
+      "options": [
+        "A. Withholding reinforcement whenever the client makes an error",
+        "B. A systematic procedure for responding to incorrect responses to facilitate learning",
+        "C. Punishing incorrect responses to reduce error rates",
+        "D. Ignoring errors to avoid reinforcing them through attention"
+      ],
+      "answer": "B",
+      "explanation": "Error correction is a systematic teaching procedure that follows an incorrect or no response. Common procedures (like the 4-step error correction) involve: representing the SD, providing a prompt, having the client respond correctly, and then re-testing the target. The goal is to teach, not punish.",
+      "difficulty": "medium"
+    },
+    {
+      "id": 42,
+      "domain": "C",
+      "subdomain": "C-10",
+      "question": "A skill is considered mastered when:",
+      "options": [
+        "A. The client completes the skill once correctly",
+        "B. The therapist feels the client has learned the skill",
+        "C. The client meets the pre-specified mastery criterion outlined in the skill acquisition plan",
+        "D. The client can perform the skill after a 30-day break"
+      ],
+      "answer": "C",
+      "explanation": "Mastery is defined by the pre-specified criterion in the skill acquisition plan (e.g., 80% correct across 3 consecutive sessions with 2 different therapists). Criteria are set by the BCBA and must be met before a target is considered mastered, regardless of therapist perception.",
+      "difficulty": "easy"
+    },
+    {
+      "id": 43,
+      "domain": "C",
+      "subdomain": "C-3",
+      "question": "When implementing DTT, the SD should be:",
+      "options": [
+        "A. Varied each trial to prevent rote responding",
+        "B. Delivered in the same way consistently to clearly signal the learning opportunity",
+        "C. Combined with the prompt to make the instruction easier",
+        "D. Only delivered after the client makes eye contact"
+      ],
+      "answer": "B",
+      "explanation": "The discriminative stimulus (SD) should be delivered consistently so the client can reliably identify it as the signal to respond. While some variation is built in over time to promote generalization, inconsistent SDs during acquisition create confusion and slow learning.",
+      "difficulty": "medium"
+    },
+    {
+      "id": 44,
+      "domain": "C",
+      "subdomain": "C-4",
+      "question": "Prompt dependency occurs when a client:",
+      "options": [
+        "A. Consistently responds correctly when given a prompt",
+        "B. Fails to respond to the natural discriminative stimulus without additional prompting",
+        "C. Requests prompts before attempting a task",
+        "D. Only responds correctly on the first trial of each session"
+      ],
+      "answer": "B",
+      "explanation": "Prompt dependency (also called 'being stuck on prompts') occurs when a client requires continued prompting to respond and does not respond to the natural SD alone. This is typically the result of insufficient prompt fading or reinforcing prompted responses at the same magnitude as independent responses.",
+      "difficulty": "medium"
+    },
+    {
+      "id": 45,
+      "domain": "C",
+      "subdomain": "C-6",
+      "question": "Which of the following is an example of programming for generalization?",
+      "options": [
+        "A. Always teaching in the same room with the same materials",
+        "B. Only allowing the primary therapist to run skill acquisition trials",
+        "C. Teaching with multiple therapists, materials, and in varied settings from the start",
+        "D. Waiting until mastery before exposing the client to new settings"
+      ],
+      "answer": "C",
+      "explanation": "Programming for generalization involves systematically varying the conditions of training (people, places, materials) to promote transfer to novel contexts. Strategies include using multiple exemplars, training loosely, and incorporating natural reinforcers.",
+      "difficulty": "medium"
+    },
+    {
+      "id": 46,
+      "domain": "D",
+      "subdomain": "D-1",
+      "question": "A behavior reduction plan should be based on:",
+      "options": [
+        "A. The therapist's judgment about what will be most effective",
+        "B. The function of the behavior identified through functional assessment",
+        "C. The most restrictive intervention available to ensure effectiveness",
+        "D. What has worked for other clients with similar topographies"
+      ],
+      "answer": "B",
+      "explanation": "Behavior reduction plans are function-based — they target the maintaining variables identified through functional assessment. An intervention that does not address the function of the behavior is unlikely to produce durable change. For example, extinction for escape-maintained behavior looks different from extinction for attention-maintained behavior.",
+      "difficulty": "medium"
+    },
+    {
+      "id": 47,
+      "domain": "D",
+      "subdomain": "D-2",
+      "question": "The four functions of behavior in applied behavior analysis are:",
+      "options": [
+        "A. Reinforcement, punishment, extinction, and satiation",
+        "B. Attention, escape/avoidance, tangible, and automatic (sensory)",
+        "C. Positive reinforcement, negative reinforcement, positive punishment, and negative punishment",
+        "D. Social, academic, behavioral, and physiological"
+      ],
+      "answer": "B",
+      "explanation": "The four commonly identified functions of behavior are: (1) attention — behavior is maintained by social attention; (2) escape/avoidance — maintained by removal of aversive demands; (3) tangible/access — maintained by access to preferred items; (4) automatic/sensory — maintained by sensory consequences.",
+      "difficulty": "easy"
+    },
+    {
+      "id": 48,
+      "domain": "D",
+      "subdomain": "D-3",
+      "question": "Antecedent interventions are designed to:",
+      "options": [
+        "A. Change the consequences that follow a problem behavior",
+        "B. Modify the environment before a behavior occurs to reduce the likelihood of the problem behavior",
+        "C. Punish the antecedents that trigger problem behavior",
+        "D. Teach replacement behaviors that serve the same function"
+      ],
+      "answer": "B",
+      "explanation": "Antecedent interventions (also called antecedent-based interventions) modify conditions before the behavior occurs to prevent problem behavior or increase appropriate behavior. Examples include offering choices, providing a visual schedule, or removing establishing operations that make problem behavior more likely.",
+      "difficulty": "medium"
+    },
+    {
+      "id": 49,
+      "domain": "D",
+      "subdomain": "D-4",
+      "question": "Differential Reinforcement of Alternative behavior (DRA) involves:",
+      "options": [
+        "A. Reinforcing any behavior other than the target problem behavior",
+        "B. Reinforcing a specific alternative behavior that serves the same function as the problem behavior",
+        "C. Delivering reinforcement on a fixed ratio schedule",
+        "D. Withholding reinforcement for all behaviors until the client is calm"
+      ],
+      "answer": "B",
+      "explanation": "DRA involves reinforcing a specific, appropriate alternative behavior that produces the same outcome as the problem behavior. For example, if aggression is attention-maintained, reinforcing a hand raise (the alternative) while placing aggression on extinction. The alternative replaces the problem behavior functionally.",
+      "difficulty": "medium"
+    },
+    {
+      "id": 50,
+      "domain": "D",
+      "subdomain": "D-4",
+      "question": "Differential Reinforcement of Other behavior (DRO) delivers reinforcement when:",
+      "options": [
+        "A. The client engages in a specific desirable behavior",
+        "B. The client performs a behavior that is physically incompatible with the problem behavior",
+        "C. The target problem behavior has NOT occurred during a specified interval",
+        "D. The client reduces their problem behavior by 50% compared to baseline"
+      ],
+      "answer": "C",
+      "explanation": "DRO (sometimes called Differential Reinforcement of the Omission of behavior) delivers reinforcement when the target problem behavior has not occurred during the entire DRO interval. It reinforces the absence of the problem behavior, not any specific alternative behavior.",
+      "difficulty": "medium"
+    },
+    {
+      "id": 51,
+      "domain": "D",
+      "subdomain": "D-5",
+      "question": "Extinction in behavior reduction involves:",
+      "options": [
+        "A. Punishing problem behavior to reduce its frequency",
+        "B. Withholding the reinforcer that previously maintained the problem behavior",
+        "C. Teaching an alternative behavior to replace the problem behavior",
+        "D. Removing antecedents that trigger problem behavior"
+      ],
+      "answer": "B",
+      "explanation": "Extinction involves identifying and withholding the maintaining reinforcer for a problem behavior. If a behavior is attention-maintained, extinction means not providing attention following the behavior. If escape-maintained, extinction means not allowing escape. The behavior decreases because it no longer contacts reinforcement.",
+      "difficulty": "medium"
+    },
+    {
+      "id": 52,
+      "domain": "D",
+      "subdomain": "D-5",
+      "question": "An extinction burst is:",
+      "options": [
+        "A. A permanent increase in problem behavior following the start of extinction",
+        "B. A temporary increase in rate, intensity, or variability of behavior when extinction is first implemented",
+        "C. The rapid decrease in problem behavior following extinction implementation",
+        "D. A burst of appropriate behavior that occurs after problem behavior decreases"
+      ],
+      "answer": "B",
+      "explanation": "An extinction burst is a temporary increase in the frequency, intensity, or variability of a behavior that typically occurs at the beginning of extinction. It occurs because the client 'tries harder' to get the reinforcer that is no longer available. RBTs must be prepared and must not reinforce during the burst.",
+      "difficulty": "medium"
+    },
+    {
+      "id": 53,
+      "domain": "D",
+      "subdomain": "D-6",
+      "question": "When a client engages in behavior that poses an immediate risk of serious harm, an RBT should FIRST:",
+      "options": [
+        "A. Implement the crisis/safety procedures outlined in the behavior intervention plan",
+        "B. Call 911 immediately regardless of the behavior intervention plan",
+        "C. Attempt to reason with the client to calm them down",
+        "D. Remove all demands to reduce the client's frustration"
+      ],
+      "answer": "A",
+      "explanation": "RBTs must follow the crisis and safety procedures specified in the behavior intervention plan. These procedures are developed by the BCBA in advance to address high-risk situations safely and consistently. Improvising may escalate the situation or create liability. If the plan is insufficient, contact the BCBA immediately.",
+      "difficulty": "medium"
+    },
+    {
+      "id": 54,
+      "domain": "D",
+      "subdomain": "D-3",
+      "question": "A noncontingent reinforcement (NCR) procedure delivers reinforcement:",
+      "options": [
+        "A. Based on the client performing a specific appropriate behavior",
+        "B. On a time-based schedule regardless of the client's behavior",
+        "C. Only when the client has gone a specified period without problem behavior",
+        "D. As an immediate consequence following each instance of problem behavior"
+      ],
+      "answer": "B",
+      "explanation": "Noncontingent reinforcement (NCR) delivers the reinforcer on a fixed or variable time schedule regardless of the client's behavior. By providing free access to the reinforcer, problem behavior is less likely because it is no longer the only way to access it. This is an antecedent-based intervention targeting the motivating operation.",
+      "difficulty": "hard"
+    },
+    {
+      "id": 55,
+      "domain": "D",
+      "subdomain": "D-2",
+      "question": "A client frequently throws materials during work tasks. You notice this behavior rarely occurs during preferred activities. This pattern MOST likely suggests the behavior is maintained by:",
+      "options": [
+        "A. Automatic reinforcement",
+        "B. Attention from the therapist",
+        "C. Escape from non-preferred demands",
+        "D. Access to tangible items"
+      ],
+      "answer": "C",
+      "explanation": "When a behavior occurs primarily during non-preferred tasks and rarely during preferred activities, this pattern is consistent with escape/avoidance function — the behavior removes or postpones the non-preferred demand. The contrast between high rates during tasks and low rates during preferred activities is a key behavioral indicator.",
+      "difficulty": "medium"
+    },
+    {
+      "id": 56,
+      "domain": "D",
+      "subdomain": "D-4",
+      "question": "Differential Reinforcement of Incompatible behavior (DRI) reinforces a behavior that:",
+      "options": [
+        "A. Is the same topography as the problem behavior",
+        "B. Cannot occur at the same time as the problem behavior",
+        "C. Occurs at a lower rate than the problem behavior",
+        "D. Serves a different function than the problem behavior"
+      ],
+      "answer": "B",
+      "explanation": "DRI reinforces a behavior that is physically incompatible with the problem behavior — they cannot occur simultaneously. For example, reinforcing 'sitting with hands in lap' is incompatible with hitting because both hands cannot be in the lap and hitting someone at the same time.",
+      "difficulty": "medium"
+    },
+    {
+      "id": 57,
+      "domain": "D",
+      "subdomain": "D-1",
+      "question": "An RBT's role in behavior reduction is to:",
+      "options": [
+        "A. Develop and modify behavior intervention plans based on session data",
+        "B. Implement behavior reduction procedures as designed by the BCBA",
+        "C. Independently determine the function of problem behaviors",
+        "D. Select which reduction procedures to use based on personal preference"
+      ],
+      "answer": "B",
+      "explanation": "RBTs implement behavior reduction procedures as designed by the BCBA. The BCBA is responsible for functional assessment, plan design, and ongoing modification. The RBT's role is consistent, accurate implementation and data collection, with any concerns communicated to the supervisor.",
+      "difficulty": "easy"
+    },
+    {
+      "id": 58,
+      "domain": "D",
+      "subdomain": "D-6",
+      "question": "After a crisis situation, an RBT should:",
+      "options": [
+        "A. Continue the session normally without documentation to avoid drawing attention",
+        "B. Document the incident and contact the supervising BCBA as specified in the crisis plan",
+        "C. Immediately terminate all future sessions with the client",
+        "D. Adjust the behavior intervention plan independently to prevent future crises"
+      ],
+      "answer": "B",
+      "explanation": "After a crisis, RBTs must document the incident (what happened, what procedures were used, outcomes) and contact the BCBA as specified in the plan. Documentation and communication allow the BCBA to review whether the plan needs modification and whether additional support is needed.",
+      "difficulty": "easy"
+    },
+    {
+      "id": 59,
+      "domain": "D",
+      "subdomain": "D-5",
+      "question": "Spontaneous recovery in the context of extinction refers to:",
+      "options": [
+        "A. When a client suddenly learns a new skill without direct teaching",
+        "B. The temporary reappearance of an extinguished behavior after a period of time",
+        "C. When a reinforcer loses its effectiveness and the behavior stops",
+        "D. The return of appropriate behavior following a period of problem behavior"
+      ],
+      "answer": "B",
+      "explanation": "Spontaneous recovery is the temporary reappearance of a previously extinguished behavior after a period of time has passed. This is normal and expected during extinction. RBTs should continue implementing extinction procedures rather than reinforcing the behavior during spontaneous recovery.",
+      "difficulty": "hard"
+    },
+    {
+      "id": 60,
+      "domain": "D",
+      "subdomain": "D-3",
+      "question": "Providing a warning before a transition (e.g., '5 more minutes, then we clean up') is an example of an antecedent intervention that:",
+      "options": [
+        "A. Punishes transition-related problem behavior",
+        "B. Reduces the aversiveness of the transition by allowing preparation",
+        "C. Provides escape from the demand",
+        "D. Functions as a negative reinforcer"
+      ],
+      "answer": "B",
+      "explanation": "Advance warnings before transitions reduce the abruptness of the change, decreasing the establishing operation that makes problem behavior likely. By signaling what is coming, the client can prepare, reducing the aversive quality of the transition. This is a common antecedent-based intervention for transition-related behavior.",
+      "difficulty": "medium"
+    },
+    {
+      "id": 61,
+      "domain": "E",
+      "subdomain": "E-1",
+      "question": "An RBT's session notes should PRIMARILY include:",
+      "options": [
+        "A. The therapist's opinions and interpretations of the client's behavior",
+        "B. Objective data, observations of relevant events, and the client's response to procedures",
+        "C. A comparison of the client's performance to other clients",
+        "D. The RBT's recommendations for changes to the intervention plan"
+      ],
+      "answer": "B",
+      "explanation": "Session notes must be objective — they document what actually happened (data collected, procedures implemented, relevant environmental events, client responses). Opinions, interpretations, and recommendations fall outside the RBT's documentation scope and should be directed to the supervising BCBA.",
+      "difficulty": "easy"
+    },
+    {
+      "id": 62,
+      "domain": "E",
+      "subdomain": "E-1",
+      "question": "Which of the following would be MOST appropriate to include in an RBT's session note?",
+      "options": [
+        "A. 'Client was in a bad mood today and did not want to work'",
+        "B. 'Client appeared anxious during math tasks'",
+        "C. 'Client engaged in 12 instances of hitting during the first 15 minutes of the session; crying was observed'",
+        "D. 'Client is making good progress and will likely be ready to transition soon'"
+      ],
+      "answer": "C",
+      "explanation": "Session notes should be objective and measurable. Option C provides specific, countable data (12 instances, 15-minute time period) and observable description (crying). Options A, B, and D use interpretive language (bad mood, anxious, good progress) that requires inference beyond direct observation.",
+      "difficulty": "medium"
+    },
+    {
+      "id": 63,
+      "domain": "E",
+      "subdomain": "E-2",
+      "question": "An RBT notices that a procedure in the behavior plan seems to be making the client's behavior worse. The CORRECT action is to:",
+      "options": [
+        "A. Modify the procedure independently to reduce the client's distress",
+        "B. Stop using the procedure without informing the BCBA",
+        "C. Continue implementing the procedure as written and communicate the observation to the BCBA immediately",
+        "D. Ask the client's family what they think should be done"
+      ],
+      "answer": "C",
+      "explanation": "RBTs do not independently modify intervention plans. If a procedure appears to be ineffective or harmful, the correct action is to: (1) continue implementing as written (unless there is immediate safety risk), and (2) communicate the concern to the supervising BCBA as soon as possible. The BCBA has the authority and training to modify the plan.",
+      "difficulty": "medium"
+    },
+    {
+      "id": 64,
+      "domain": "E",
+      "subdomain": "E-2",
+      "question": "When should an RBT contact their BCBA supervisor?",
+      "options": [
+        "A. Only during scheduled supervision sessions",
+        "B. Only when there is a behavioral emergency",
+        "C. Whenever there are significant changes in behavior, implementation concerns, or safety issues that require supervisor input",
+        "D. Only when asked to by the client's family"
+      ],
+      "answer": "C",
+      "explanation": "RBTs should contact their supervisor whenever there are significant changes in the client's behavior, concerns about implementation, safety incidents, ethical dilemmas, or any situation that requires clinical decision-making beyond the RBT's scope. Waiting only for scheduled supervision sessions can delay important clinical responses.",
+      "difficulty": "easy"
+    },
+    {
+      "id": 65,
+      "domain": "E",
+      "subdomain": "E-3",
+      "question": "HIPAA regulations require that client health information be:",
+      "options": [
+        "A. Shared freely among all healthcare providers without restriction",
+        "B. Protected and only disclosed with appropriate authorization or as permitted by law",
+        "C. Stored digitally regardless of the client's preference",
+        "D. Retained indefinitely even after services end"
+      ],
+      "answer": "B",
+      "explanation": "HIPAA (Health Insurance Portability and Accountability Act) requires that protected health information (PHI) be kept confidential and only shared with proper authorization or as specifically permitted by law (e.g., for treatment, payment, or operations). RBTs must understand their obligations to protect client information.",
+      "difficulty": "easy"
+    },
+    {
+      "id": 66,
+      "domain": "E",
+      "subdomain": "E-3",
+      "question": "An RBT is on the phone in a public place and mentions a client by name while discussing their behavior. This is a violation of:",
+      "options": [
+        "A. The RBT's employment contract",
+        "B. The client's right to confidentiality and HIPAA requirements",
+        "C. Professional norms but not any formal standard",
+        "D. The BCBA's scope of practice"
+      ],
+      "answer": "B",
+      "explanation": "Discussing a client by name in a public setting where others can hear is a HIPAA violation. Protected health information must be discussed only in appropriate, private settings. This includes phone calls, conversations with family members, and written communications. RBTs have an obligation to protect client confidentiality.",
+      "difficulty": "easy"
+    },
+    {
+      "id": 67,
+      "domain": "E",
+      "subdomain": "E-4",
+      "question": "A parent asks an RBT to share their child's assessment results and treatment plan. The RBT should:",
+      "options": [
+        "A. Share all documents immediately since the parent has the right to know",
+        "B. Explain that all clinical communications with the family go through the supervising BCBA",
+        "C. Refuse to discuss the client's progress in any capacity",
+        "D. Share general progress information but keep assessment results confidential"
+      ],
+      "answer": "B",
+      "explanation": "While parents of minor clients generally have the right to access their child's records, the RBT should direct formal requests for clinical information (assessment results, treatment plans) to the supervising BCBA. The BCBA manages clinical communication with families. The RBT should not independently share or interpret clinical documents.",
+      "difficulty": "medium"
+    },
+    {
+      "id": 68,
+      "domain": "E",
+      "subdomain": "E-5",
+      "question": "Incident reports should be completed:",
+      "options": [
+        "A. Only when required by the client's insurance company",
+        "B. After any significant event as required by agency policy, such as client injury, crisis behavior, or unexpected events",
+        "C. Only when the supervising BCBA witnesses the incident",
+        "D. At the end of the week, summarizing all incidents together"
+      ],
+      "answer": "B",
+      "explanation": "Incident reports are completed following significant events — client or staff injury, crisis behavior, medication errors, unexpected events. They should be completed as soon as possible after the incident while details are fresh. Delayed or batched reporting compromises accuracy and may violate agency/regulatory requirements.",
+      "difficulty": "easy"
+    },
+    {
+      "id": 69,
+      "domain": "E",
+      "subdomain": "E-1",
+      "question": "Which of the following BEST describes the purpose of objective data collection in behavior analysis?",
+      "options": [
+        "A. To document that the therapist followed procedures correctly",
+        "B. To provide a basis for data-based clinical decision making by the supervising BCBA",
+        "C. To satisfy billing and insurance requirements",
+        "D. To prove that the client is making progress to their family"
+      ],
+      "answer": "B",
+      "explanation": "The primary purpose of objective data collection is to provide the supervising BCBA with accurate information to make data-based clinical decisions — whether to continue, modify, or discontinue procedures. Data drives clinical decisions in ABA; without it, decisions would be based on impression rather than evidence.",
+      "difficulty": "medium"
+    },
+    {
+      "id": 70,
+      "domain": "E",
+      "subdomain": "E-2",
+      "question": "If an RBT is uncertain about how to implement a specific procedure during a session, they should:",
+      "options": [
+        "A. Implement the procedure based on their best guess to avoid disrupting the session",
+        "B. Skip the procedure entirely until they can receive clarification",
+        "C. Contact the supervising BCBA for guidance as soon as possible",
+        "D. Ask the client's parents to demonstrate how they handle the situation at home"
+      ],
+      "answer": "C",
+      "explanation": "When uncertain about implementation, RBTs should seek clarification from their supervisor. Guessing risks implementing an incorrect procedure that could slow progress or cause harm. While skipping may be appropriate in some immediate situations, the priority is to get supervisor guidance promptly to ensure correct and safe implementation.",
+      "difficulty": "easy"
+    },
+    {
+      "id": 71,
+      "domain": "E",
+      "subdomain": "E-4",
+      "question": "Reporting requirements for suspected child abuse:",
+      "options": [
+        "A. Apply only to licensed clinicians, not RBTs",
+        "B. Apply to all mandated reporters, which typically includes anyone working with children",
+        "C. Require that the RBT investigate the abuse before reporting",
+        "D. Are optional if the family requests privacy"
+      ],
+      "answer": "B",
+      "explanation": "In most jurisdictions, RBTs and others working with vulnerable populations are mandated reporters — they are legally required to report suspected abuse or neglect. This reporting obligation cannot be waived by family request, and reporters are not required to investigate or confirm abuse before reporting.",
+      "difficulty": "medium"
+    },
+    {
+      "id": 72,
+      "domain": "E",
+      "subdomain": "E-5",
+      "question": "Session notes must be completed:",
+      "options": [
+        "A. Only when the client makes significant progress",
+        "B. For every session, accurately reflecting what occurred",
+        "C. Only when directed by the supervising BCBA",
+        "D. In a way that supports billing regardless of what actually occurred"
+      ],
+      "answer": "B",
+      "explanation": "Session notes are required for every session and must accurately reflect what happened. Selective note-taking (only recording good sessions) and notes that don't reflect actual session events are both professionally and legally problematic. Billing fraud (billing for sessions not provided or misrepresenting services) is illegal.",
+      "difficulty": "easy"
+    },
+    {
+      "id": 73,
+      "domain": "E",
+      "subdomain": "E-3",
+      "question": "Client records must be stored in a way that:",
+      "options": [
+        "A. Is easily accessible to all agency staff regardless of their role",
+        "B. Ensures only authorized individuals can access confidential information",
+        "C. Allows clients to post their own materials publicly",
+        "D. Meets the minimum requirement of a password but otherwise unrestricted"
+      ],
+      "answer": "B",
+      "explanation": "Client records (physical and electronic) must be stored securely with access restricted to authorized individuals who need the information for their role. This includes password-protected systems, locked file cabinets, and ensuring records are not left visible to unauthorized parties.",
+      "difficulty": "easy"
+    },
+    {
+      "id": 74,
+      "domain": "E",
+      "subdomain": "E-1",
+      "question": "The term 'treatment fidelity' refers to:",
+      "options": [
+        "A. How loyal the therapist is to the client relationship",
+        "B. The degree to which a treatment is implemented as intended",
+        "C. Whether the client agrees with the treatment goals",
+        "D. The accuracy of the client's self-report during sessions"
+      ],
+      "answer": "B",
+      "explanation": "Treatment fidelity (also called procedural fidelity or implementation fidelity) refers to how accurately and consistently a treatment protocol is implemented as designed. High fidelity means the therapist is implementing the procedure exactly as written. Poor fidelity undermines the validity of outcome data and may explain a lack of behavior change.",
+      "difficulty": "medium"
+    },
+    {
+      "id": 75,
+      "domain": "E",
+      "subdomain": "E-2",
+      "question": "An RBT begins a session and realizes they left the data collection materials at the office. They should:",
+      "options": [
+        "A. Complete the session without recording data, then fill in estimates afterward",
+        "B. Contact the supervisor immediately to determine how to proceed",
+        "C. Create their own informal data collection method and document without notifying the supervisor",
+        "D. Cancel the session entirely because it cannot proceed without official materials"
+      ],
+      "answer": "B",
+      "explanation": "The correct action is to contact the supervisor. The BCBA may be able to send materials electronically, provide a temporary solution, or advise on how to proceed. Creating informal methods without supervisor approval or falsifying data are both professional violations.",
+      "difficulty": "medium"
+    },
+    {
+      "id": 76,
+      "domain": "E",
+      "subdomain": "E-5",
+      "question": "Which of the following BEST describes the RBT's responsibility regarding billing documentation?",
+      "options": [
+        "A. RBTs should ensure billing reflects the actual services provided accurately",
+        "B. Billing is the BCBA's responsibility; RBTs have no role in it",
+        "C. RBTs should maximize billable time by documenting all activities as direct client contact",
+        "D. Billing documentation is optional if the client's insurance is not involved"
+      ],
+      "answer": "A",
+      "explanation": "RBTs have a responsibility to ensure their session documentation accurately reflects the services provided. Fraudulent billing (billing for services not rendered, misrepresenting service type, inflating time) is illegal and unethical. Even if the RBT is not directly submitting claims, their session notes form the basis for billing.",
+      "difficulty": "medium"
+    },
+    {
+      "id": 77,
+      "domain": "E",
+      "subdomain": "E-4",
+      "question": "Protected health information (PHI) under HIPAA includes which of the following?",
+      "options": [
+        "A. Publicly available information about a client's diagnosis",
+        "B. A client's name combined with their health condition or treatment",
+        "C. De-identified data from which all identifying information has been removed",
+        "D. General information about autism spectrum disorder not linked to a specific individual"
+      ],
+      "answer": "B",
+      "explanation": "PHI includes any individually identifiable health information — information that could be used to identify a specific person linked to health conditions or treatment. A client's name combined with their diagnosis, treatment records, session notes, or assessment results all constitute PHI.",
+      "difficulty": "medium"
+    },
+    {
+      "id": 78,
+      "domain": "E",
+      "subdomain": "E-3",
+      "question": "An RBT takes a photo of a client's progress chart to show a colleague at another agency. This is:",
+      "options": [
+        "A. Acceptable if the colleague also works in ABA",
+        "B. Acceptable if the client's name is not visible in the photo",
+        "C. A HIPAA violation and breach of confidentiality",
+        "D. Acceptable if the BCBA is aware of the colleague"
+      ],
+      "answer": "C",
+      "explanation": "Sharing client documentation (even de-identified) with individuals outside the treatment team without proper authorization is a HIPAA violation. A progress chart contains PHI, and sharing it — even with another ABA professional — requires the client's written authorization unless the disclosure is for treatment, payment, or operations within the treating organization.",
+      "difficulty": "medium"
+    },
+    {
+      "id": 79,
+      "domain": "E",
+      "subdomain": "E-2",
+      "question": "When an RBT is unable to attend a scheduled session, they should:",
+      "options": [
+        "A. Have a family member cover the session informally",
+        "B. Notify the supervisor and follow the agency's procedures for absences",
+        "C. Skip the session and document it as completed to maintain their hours",
+        "D. Have a colleague who is not trained on the client cover without notifying the supervisor"
+      ],
+      "answer": "B",
+      "explanation": "Absence procedures require notification of the supervisor and adherence to agency protocols. Falsifying session documentation is fraud. Sending untrained staff to cover without authorization violates both professional standards and potentially the client's treatment plan.",
+      "difficulty": "easy"
+    },
+    {
+      "id": 80,
+      "domain": "E",
+      "subdomain": "E-1",
+      "question": "Data should be entered and graphed following a session because:",
+      "options": [
+        "A. It is required by the client's insurance company after every session",
+        "B. Timely, accurate graphing allows the BCBA to make data-based decisions and detect trends early",
+        "C. It shows the client's family that the therapist is doing their job",
+        "D. Delayed data entry is acceptable as long as it is done before the next session"
+      ],
+      "answer": "B",
+      "explanation": "Timely data entry and graphing allows the BCBA to visually inspect trends, detect problems early, and make clinical decisions promptly. Delayed or batched data entry can mask important trends and delay needed adjustments to treatment plans.",
+      "difficulty": "easy"
+    },
+    {
+      "id": 81,
+      "domain": "F",
+      "subdomain": "F-1",
+      "question": "The RBT scope of practice limits the RBT to:",
+      "options": [
+        "A. Conducting functional behavior assessments independently",
+        "B. Implementing behavior analytic services under the ongoing supervision of a BCBA or BCaBA",
+        "C. Making independent clinical decisions about treatment planning",
+        "D. Supervising other RBTs if they have sufficient experience"
+      ],
+      "answer": "B",
+      "explanation": "The RBT credential is a practitioner-level credential for implementing behavior analytic services under ongoing supervision of a BCBA or BCaBA. RBTs do not independently conduct assessments, design treatment plans, supervise others, or make clinical decisions. All clinical work occurs under supervision.",
+      "difficulty": "easy"
+    },
+    {
+      "id": 82,
+      "domain": "F",
+      "subdomain": "F-2",
+      "question": "When a supervising BCBA provides corrective feedback to an RBT, the RBT should:",
+      "options": [
+        "A. Implement the feedback immediately and adjust their practice accordingly",
+        "B. Politely explain why their current approach is correct",
+        "C. Wait until they agree with the feedback before changing their practice",
+        "D. Document the feedback as inappropriate and report it to the agency"
+      ],
+      "answer": "A",
+      "explanation": "RBTs are expected to receive and implement feedback from their supervisors. This is a core professional responsibility outlined in the RBT Ethics Code. Resisting feedback, arguing with supervisors, or waiting to implement feedback all undermine the supervisory relationship and client outcomes.",
+      "difficulty": "easy"
+    },
+    {
+      "id": 83,
+      "domain": "F",
+      "subdomain": "F-3",
+      "question": "Professional boundaries with clients require that an RBT:",
+      "options": [
+        "A. Maintain a purely professional relationship appropriate to their role",
+        "B. Develop close personal friendships to build rapport and improve outcomes",
+        "C. Share personal information freely to build trust with clients",
+        "D. Accept gifts from clients as it would be rude to refuse"
+      ],
+      "answer": "A",
+      "explanation": "RBTs must maintain professional boundaries — this means keeping relationships within the scope of the professional role. Dual relationships (personal friendships, romantic relationships), accepting significant gifts, sharing excessive personal information, or engaging in personal relationships outside the professional context all violate professional boundaries.",
+      "difficulty": "easy"
+    },
+    {
+      "id": 84,
+      "domain": "F",
+      "subdomain": "F-4",
+      "question": "A client's parent asks an RBT to babysit their child outside of therapy hours. The RBT should:",
+      "options": [
+        "A. Agree if the family seems trustworthy",
+        "B. Decline and explain that maintaining professional boundaries is important",
+        "C. Agree if the supervising BCBA is not aware",
+        "D. Consult with the BCBA and then decide based on their personal comfort"
+      ],
+      "answer": "B",
+      "explanation": "Accepting additional work arrangements (babysitting, personal assistant) with clients constitutes a multiple relationship and violates professional boundaries outlined in the RBT Ethics Code. RBTs should politely decline and explain the need to maintain professional boundaries, regardless of family preference.",
+      "difficulty": "medium"
+    },
+    {
+      "id": 85,
+      "domain": "F",
+      "subdomain": "F-5",
+      "question": "Client dignity requires that an RBT:",
+      "options": [
+        "A. Treat all clients with respect regardless of their behavior or diagnosis",
+        "B. Only interact warmly with clients who are cooperative and pleasant",
+        "C. Allow a client's challenging behavior to go unaddressed to preserve their autonomy",
+        "D. Follow the client's requests even if they conflict with the treatment plan"
+      ],
+      "answer": "A",
+      "explanation": "Treating clients with dignity means respecting each client as a person regardless of their behavior, diagnosis, or the difficulty of the session. This includes using respectful language, not talking about clients negatively in front of them, treating their preferences with respect, and maintaining professional interactions at all times.",
+      "difficulty": "easy"
+    },
+    {
+      "id": 86,
+      "domain": "F",
+      "subdomain": "F-1",
+      "question": "If an RBT is asked to perform a task that is outside their scope of practice, they should:",
+      "options": [
+        "A. Complete the task if they feel confident in their ability",
+        "B. Refuse the task and decline without explanation",
+        "C. Communicate the concern to their supervisor and seek guidance",
+        "D. Research the task online and complete it to the best of their ability"
+      ],
+      "answer": "C",
+      "explanation": "When asked to perform a task outside their scope of practice, RBTs should communicate this concern to their supervisor. Simply refusing without explanation is unprofessional, and attempting the task unsupervised risks harm to the client. The BCBA can clarify whether the task is appropriate, provide training, or reassign it.",
+      "difficulty": "medium"
+    },
+    {
+      "id": 87,
+      "domain": "F",
+      "subdomain": "F-6",
+      "question": "An RBT uses social media to post about a frustrating session. They do not name the client but include enough detail that someone who knows the client could identify them. This is:",
+      "options": [
+        "A. Acceptable because the client's name was not mentioned",
+        "B. A violation of client confidentiality even without using the client's name",
+        "C. Only a concern if the client's family sees the post",
+        "D. Acceptable on private social media accounts"
+      ],
+      "answer": "B",
+      "explanation": "Confidentiality violations do not require use of a client's name. Sharing details that could identify a client ('a 10-year-old boy I work with who attends Jefferson Elementary...') still constitutes a breach of confidentiality and a HIPAA violation. All session information is protected regardless of how much identifying information is shared.",
+      "difficulty": "medium"
+    },
+    {
+      "id": 88,
+      "domain": "F",
+      "subdomain": "F-2",
+      "question": "The minimum required supervision contact for an RBT is:",
+      "options": [
+        "A. Monthly check-ins with the BCBA",
+        "B. At least 5% of service hours per month, with at least 2 contacts per month",
+        "C. Weekly in-person observation sessions",
+        "D. One hour per week regardless of hours worked"
+      ],
+      "answer": "B",
+      "explanation": "The BACB requires that RBTs receive ongoing supervision of at least 5% of service hours per month, with a minimum of 2 contacts per month. At least one contact per month must include direct observation of service delivery. Supervisors must ensure these minimums are met.",
+      "difficulty": "hard"
+    },
+    {
+      "id": 89,
+      "domain": "F",
+      "subdomain": "F-7",
+      "question": "When an RBT disagrees with a clinical decision made by their BCBA, the MOST appropriate action is to:",
+      "options": [
+        "A. Implement a different procedure they believe is better",
+        "B. Discuss the concern professionally with the BCBA through appropriate channels",
+        "C. Tell the client's family about the disagreement",
+        "D. Continue implementing the procedure as directed without raising the concern"
+      ],
+      "answer": "B",
+      "explanation": "RBTs should raise clinical concerns professionally with their supervisor. Bypassing the supervisor, informing the family of internal disagreements, or implementing unauthorized alternatives are all inappropriate. If the concern is not resolved, the RBT may escalate to the clinical director or consider whether the situation violates their ethical obligations.",
+      "difficulty": "medium"
+    },
+    {
+      "id": 90,
+      "domain": "F",
+      "subdomain": "F-5",
+      "question": "The least restrictive principle in behavior intervention requires that:",
+      "options": [
+        "A. Only positive reinforcement is ever used",
+        "B. The most effective intervention is always selected first",
+        "C. Interventions with the fewest risks and least restrictive measures be tried before more restrictive ones",
+        "D. Clients choose their own intervention procedures"
+      ],
+      "answer": "C",
+      "explanation": "The least restrictive principle requires that behavior interventions use the least intrusive and restrictive methods that are effective. More restrictive interventions (response cost, overcorrection, physical restraint) should only be considered after less restrictive alternatives have been tried or documented as insufficient.",
+      "difficulty": "medium"
+    },
+    {
+      "id": 91,
+      "domain": "F",
+      "subdomain": "F-3",
+      "question": "An RBT observes a colleague implementing a procedure incorrectly with a client. The MOST appropriate response is to:",
+      "options": [
+        "A. Correct the colleague directly in front of the client",
+        "B. Report the concern to the supervising BCBA",
+        "C. Ignore the incident because it is not the RBT's responsibility",
+        "D. Demonstrate the correct procedure to the client on behalf of the colleague"
+      ],
+      "answer": "B",
+      "explanation": "RBTs have a professional responsibility to report concerns about the quality of services to their supervisor. Correcting colleagues in front of clients undermines professionalism and the therapeutic relationship. The BCBA can address implementation concerns through appropriate training and supervision channels.",
+      "difficulty": "medium"
+    },
+    {
+      "id": 92,
+      "domain": "F",
+      "subdomain": "F-4",
+      "question": "Exploitation of clients refers to:",
+      "options": [
+        "A. Using evidence-based procedures that the client finds challenging",
+        "B. Taking unfair advantage of a client's vulnerability for personal gain",
+        "C. Implementing behavior reduction procedures the client dislikes",
+        "D. Requiring the client to work on non-preferred tasks"
+      ],
+      "answer": "B",
+      "explanation": "Exploitation involves taking advantage of the power differential in the therapist-client relationship for personal benefit. Examples include financial exploitation, sexual exploitation, using client information for personal advantage, or engaging in commercial transactions with clients. This is a severe ethics violation.",
+      "difficulty": "medium"
+    },
+    {
+      "id": 93,
+      "domain": "F",
+      "subdomain": "F-6",
+      "question": "An RBT should disclose their role as an RBT to clients and their families because:",
+      "options": [
+        "A. It is a legal requirement in most states",
+        "B. The RBT Ethics Code requires transparency about professional role and qualifications",
+        "C. It helps clients understand which procedures the RBT will implement",
+        "D. Only BCBAs are allowed to withhold their credentials"
+      ],
+      "answer": "B",
+      "explanation": "The RBT Ethics Code (and the BACB Ethics Code for behavior analysts) requires transparency about professional qualifications. Clients and families have the right to know who is providing services and at what credential level. Misrepresenting qualifications or failing to disclose one's role is an ethics violation.",
+      "difficulty": "medium"
+    },
+    {
+      "id": 94,
+      "domain": "F",
+      "subdomain": "F-7",
+      "question": "If an RBT suspects that a client is being abused or neglected by a caregiver, they are required to:",
+      "options": [
+        "A. Investigate the situation before making any reports",
+        "B. Discuss it privately with the family to resolve the situation",
+        "C. Report the concern to the supervising BCBA and follow mandatory reporting procedures",
+        "D. Document the concern in the session notes and wait to see if it continues"
+      ],
+      "answer": "C",
+      "explanation": "RBTs are mandatory reporters and must report suspected abuse or neglect. They should inform their supervisor and follow mandatory reporting procedures (which may involve contacting child protective services directly). Investigating independently, confronting families, or simply documenting without reporting are all inappropriate responses.",
+      "difficulty": "medium"
+    },
+    {
+      "id": 95,
+      "domain": "F",
+      "subdomain": "F-5",
+      "question": "Maintaining a therapeutic environment for the client requires:",
+      "options": [
+        "A. Ensuring the client is always happy and never frustrated",
+        "B. Creating a predictable, safe, and respectful context that supports learning and behavior change",
+        "C. Giving the client access to all preferred items at all times",
+        "D. Avoiding all aversive procedures regardless of the behavior plan"
+      ],
+      "answer": "B",
+      "explanation": "A therapeutic environment is one that supports learning and behavior change — it is predictable, safe, and respectful. This does not mean eliminating all frustration (appropriate challenge is part of learning) or unrestricted access to reinforcers (which would undermine reinforcement-based procedures).",
+      "difficulty": "medium"
+    },
+    {
+      "id": 96,
+      "domain": "F",
+      "subdomain": "F-1",
+      "question": "Which of the following activities is WITHIN the RBT's scope of practice?",
+      "options": [
+        "A. Designing a new behavior intervention plan for a client",
+        "B. Conducting a functional analysis independently",
+        "C. Implementing skill acquisition and behavior reduction programs as directed by a BCBA",
+        "D. Providing supervision to another RBT"
+      ],
+      "answer": "C",
+      "explanation": "The RBT's scope of practice includes implementing skill acquisition and behavior reduction programs under BCBA supervision, collecting and recording data, and assisting with assessments as directed. Designing plans, conducting functional analyses, and providing supervision are BCBA-level responsibilities.",
+      "difficulty": "easy"
+    },
+    {
+      "id": 97,
+      "domain": "F",
+      "subdomain": "F-3",
+      "question": "Which of the following statements BEST describes the RBT's ethical obligation to wellness?",
+      "options": [
+        "A. RBTs should work additional hours to demonstrate commitment to clients",
+        "B. RBTs have a responsibility to maintain their own wellbeing to be effective practitioners",
+        "C. Personal wellness is not relevant to professional ethics",
+        "D. RBTs should suppress personal stress to maintain a positive demeanor with clients"
+      ],
+      "answer": "B",
+      "explanation": "The BACB Ethics Code recognizes that practitioners have a responsibility to maintain their own wellbeing. Impaired practice (due to burnout, stress, or other factors) can compromise client outcomes. RBTs should address their own wellness and seek support when needed, including communicating with their supervisor about factors affecting their practice.",
+      "difficulty": "medium"
+    },
+    {
+      "id": 98,
+      "domain": "F",
+      "subdomain": "F-6",
+      "question": "An RBT who is experiencing a personal crisis that may affect their ability to work effectively should:",
+      "options": [
+        "A. Continue working normally without disclosure to avoid appearing unprofessional",
+        "B. Communicate with their supervisor about how it may affect their work",
+        "C. Immediately resign from their position",
+        "D. Wait until the crisis passes before returning to work"
+      ],
+      "answer": "B",
+      "explanation": "RBTs have an ethical obligation to practice competently. If personal circumstances may impair performance, communicating with the supervisor allows for appropriate support, temporary schedule adjustments, or other accommodations. Hiding impairment that affects client services is an ethics violation.",
+      "difficulty": "medium"
+    },
+    {
+      "id": 99,
+      "domain": "F",
+      "subdomain": "F-2",
+      "question": "An RBT regularly practices implementing procedures before sessions and seeks feedback from their supervisor. This reflects:",
+      "options": [
+        "A. An unnecessarily cautious approach that slows down service delivery",
+        "B. A commitment to ongoing competence and professional development",
+        "C. A lack of confidence that the supervisor should address",
+        "D. Behavior that is only appropriate for newly certified RBTs"
+      ],
+      "answer": "B",
+      "explanation": "Seeking opportunities to practice, improve, and receive feedback reflects a commitment to ongoing competence — a core ethical responsibility for all practitioners. Professional development and skill refinement benefit clients by improving implementation fidelity and consistency.",
+      "difficulty": "easy"
+    },
+    {
+      "id": 100,
+      "domain": "F",
+      "subdomain": "F-4",
+      "question": "If a client's parent insists that the RBT implement a procedure that contradicts the BCBA's behavior plan, the RBT should:",
+      "options": [
+        "A. Follow the parent's instructions since parents have authority over their child's care",
+        "B. Implement both procedures alternately to satisfy all parties",
+        "C. Inform the parent that procedure changes must go through the supervising BCBA",
+        "D. Implement the parent's procedure and document it without notifying the BCBA"
+      ],
+      "answer": "C",
+      "explanation": "While parents have important input into their child's care, RBTs implement procedures as directed by the supervising BCBA. If a family member requests a change to the plan, the RBT should explain that any changes must be reviewed and approved by the BCBA and communicate the family's request to the supervisor promptly.",
+      "difficulty": "medium"
+    }
+  ]
+}
